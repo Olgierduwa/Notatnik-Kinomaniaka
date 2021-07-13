@@ -1,0 +1,68 @@
+﻿<Window x:Class="Cinemanote.ScheduleWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cinemanote"
+        mc:Ignorable="d" Language="pl-PL"
+        ResizeMode="NoResize"
+        WindowStartupLocation ="CenterOwner"
+        Title="Cinemanote" Height="380" Width="600" FontSize="24" FontWeight="Medium">
+    <DockPanel Background="DimGray">
+        <TextBlock Background="Black" DockPanel.Dock="Top" Height="40" Margin="0 0 0 10"/>
+        <TextBlock Background="Black" DockPanel.Dock="Bottom" Height="40"/>
+        <Grid DockPanel.Dock="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label FontWeight="ExtraBold" Foreground="DarkGray" Margin="10 0">Film:</Label>
+            <Viewbox Grid.Column="1" HorizontalAlignment="Center" MaxHeight="40">
+                <Label Name="Title" Foreground="LightGray"/>
+            </Viewbox>
+        </Grid>
+        <StackPanel DockPanel.Dock="Left" Margin="10 10 0 10">
+            <Label FontWeight="ExtraBold" Foreground="DarkGray">Data:</Label>
+            <StackPanel VerticalAlignment="Bottom">
+                <Button Click="Delete" Name="DeleteButton" Background="LightGray" Margin="0 5" Height="40" Padding="40 5" FontSize="20" >Usun</Button>
+                <Button Click="Save" Background="LightGray" Margin="0 5" Height="40" Padding="40 5" FontSize="20">Zapisz</Button>
+                <Button Click="Cancel" Background="LightGray" Margin="0 5" Height="40" Padding="40 5" FontSize="20">Anuluj</Button>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel DockPanel.Dock="Left">
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <ComboBox Name="YearBox" Padding="10 0" Margin="10 0" Width="110" Background="LightGray" Foreground="OrangeRed" VerticalContentAlignment="Center" SelectionChanged="SelectYear"></ComboBox>
+                <Label Content="/" Foreground="DarkGray"/>
+                <ComboBox Name="MonthBox" Padding="10 0" Margin="10 0" Width="70" Background="LightGray" Foreground="OrangeRed" VerticalContentAlignment="Center" SelectionChanged="SelectMonth"></ComboBox>
+                <Label Content="/" Foreground="DarkGray"/>
+                <ComboBox Name="DayBox" Padding="10 0" Margin="10 0" Width="70" Background="LightGray" Foreground="OrangeRed" VerticalContentAlignment="Center"></ComboBox>
+            </StackPanel>
+            <GroupBox Margin="10 0">
+                <GroupBox.Header>
+                    <CheckBox Content="Pzypomnienie" FontSize="12" FontWeight="Normal" Name="check_remind"
+                            Checked="CheckRemind" Unchecked="CheckRemind" Background="LightGray" Foreground="LightGray">
+                        <CheckBox.LayoutTransform>
+                            <ScaleTransform ScaleX="2" ScaleY="2" />
+                        </CheckBox.LayoutTransform>
+                    </CheckBox>
+                </GroupBox.Header>
+                <Grid Name="RemindGroup">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel Margin="10">
+                        <Label FontWeight="ExtraBold" Foreground="Black" FontSize="20">Kiedy:</Label>
+                        <Label FontWeight="ExtraBold" Foreground="Black" FontSize="20">Powtórz:</Label>
+                    </StackPanel>
+                    <StackPanel Margin="10" Grid.Column="1">
+                        <ComboBox FontSize="20" SelectedItem="1" Name="when_box">
+                        </ComboBox>
+                        <ComboBox FontSize="20" SelectedItem="2" Name="times_box">
+                        </ComboBox>
+                    </StackPanel>
+                </Grid>
+            </GroupBox>
+        </StackPanel>
+    </DockPanel>
+</Window>

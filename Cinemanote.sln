@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinemanote", "Cinemanote.csproj", "{ABE42436-A287-49FE-9A3A-D4DAE4BA1DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABE42436-A287-49FE-9A3A-D4DAE4BA1DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE42436-A287-49FE-9A3A-D4DAE4BA1DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE42436-A287-49FE-9A3A-D4DAE4BA1DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE42436-A287-49FE-9A3A-D4DAE4BA1DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC6D6884-DE21-4DCD-BC47-33F25334C1FD}
+	EndGlobalSection
+EndGlobal

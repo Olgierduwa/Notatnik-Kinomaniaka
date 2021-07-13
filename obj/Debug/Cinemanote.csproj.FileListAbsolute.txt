@@ -1,0 +1,60 @@
+C:\Users\OLGIERD\Desktop\semestr v\WPF\projekt\Cinemanote\bin\Debug\Cinemanote.exe.config
+C:\Users\OLGIERD\Desktop\semestr v\WPF\projekt\Cinemanote\bin\Debug\Cinemanote.exe
+C:\Users\OLGIERD\Desktop\semestr v\WPF\projekt\Cinemanote\bin\Debug\Cinemanote.pdb
+C:\Users\OLGIERD\Desktop\semestr v\WPF\projekt\Cinemanote\obj\Debug\Cinemanote.csprojAssemblyReference.cache
+C:\Users\OLGIERD\Desktop\semestr v\WPF\projekt\Cinemanote\obj\Debug\MainWindow.g.cs
+C:\Users\OLGIERD\Desktop\semestr v\WPF\projekt\Cinemanote\obj\Debug\RateWindow.g.cs
+C:\Users\OLGIERD\Desktop\semestr v\WPF\projekt\Cinemanote\obj\Debug\ScheduleWindow.g.cs
+C:\Users\OLGIERD\Desktop\semestr v\WPF\projekt\Cinemanote\obj\Debug\App.g.cs
+C:\Users\OLGIERD\Desktop\semestr v\WPF\projekt\Cinemanote\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\OLGIERD\Desktop\semestr v\WPF\projekt\Cinemanote\obj\Debug\Cinemanote_MarkupCompile.cache
+C:\Users\OLGIERD\Desktop\semestr v\WPF\projekt\Cinemanote\obj\Debug\Cinemanote_MarkupCompile.lref
+C:\Users\OLGIERD\Desktop\semestr v\WPF\projekt\Cinemanote\obj\Debug\MainWindow.baml
+C:\Users\OLGIERD\Desktop\semestr v\WPF\projekt\Cinemanote\obj\Debug\RateWindow.baml
+C:\Users\OLGIERD\Desktop\semestr v\WPF\projekt\Cinemanote\obj\Debug\ScheduleWindow.baml
+C:\Users\OLGIERD\Desktop\semestr v\WPF\projekt\Cinemanote\obj\Debug\Cinemanote.g.resources
+C:\Users\OLGIERD\Desktop\semestr v\WPF\projekt\Cinemanote\obj\Debug\Cinemanote.Properties.Resources.resources
+C:\Users\OLGIERD\Desktop\semestr v\WPF\projekt\Cinemanote\obj\Debug\Cinemanote.csproj.GenerateResource.cache
+C:\Users\OLGIERD\Desktop\semestr v\WPF\projekt\Cinemanote\obj\Debug\Cinemanote.csproj.CoreCompileInputs.cache
+C:\Users\OLGIERD\Desktop\semestr v\WPF\projekt\Cinemanote\obj\Debug\Cinemanote.exe
+C:\Users\OLGIERD\Desktop\semestr v\WPF\projekt\Cinemanote\obj\Debug\Cinemanote.pdb
+C:\Users\OLGIERD\Desktop\STUDIA\SEMESTR V\WPF\projekt\Cinemanote\bin\Debug\Cinemanote.exe.config
+C:\Users\OLGIERD\Desktop\STUDIA\SEMESTR V\WPF\projekt\Cinemanote\bin\Debug\Cinemanote.exe
+C:\Users\OLGIERD\Desktop\STUDIA\SEMESTR V\WPF\projekt\Cinemanote\bin\Debug\Cinemanote.pdb
+C:\Users\OLGIERD\Desktop\STUDIA\SEMESTR V\WPF\projekt\Cinemanote\obj\Debug\Cinemanote.csprojAssemblyReference.cache
+C:\Users\OLGIERD\Desktop\STUDIA\SEMESTR V\WPF\projekt\Cinemanote\obj\Debug\MainWindow.g.cs
+C:\Users\OLGIERD\Desktop\STUDIA\SEMESTR V\WPF\projekt\Cinemanote\obj\Debug\RateWindow.g.cs
+C:\Users\OLGIERD\Desktop\STUDIA\SEMESTR V\WPF\projekt\Cinemanote\obj\Debug\ScheduleWindow.g.cs
+C:\Users\OLGIERD\Desktop\STUDIA\SEMESTR V\WPF\projekt\Cinemanote\obj\Debug\App.g.cs
+C:\Users\OLGIERD\Desktop\STUDIA\SEMESTR V\WPF\projekt\Cinemanote\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\OLGIERD\Desktop\STUDIA\SEMESTR V\WPF\projekt\Cinemanote\obj\Debug\Cinemanote_MarkupCompile.cache
+C:\Users\OLGIERD\Desktop\STUDIA\SEMESTR V\WPF\projekt\Cinemanote\obj\Debug\Cinemanote_MarkupCompile.lref
+C:\Users\OLGIERD\Desktop\STUDIA\SEMESTR V\WPF\projekt\Cinemanote\obj\Debug\MainWindow.baml
+C:\Users\OLGIERD\Desktop\STUDIA\SEMESTR V\WPF\projekt\Cinemanote\obj\Debug\RateWindow.baml
+C:\Users\OLGIERD\Desktop\STUDIA\SEMESTR V\WPF\projekt\Cinemanote\obj\Debug\ScheduleWindow.baml
+C:\Users\OLGIERD\Desktop\STUDIA\SEMESTR V\WPF\projekt\Cinemanote\obj\Debug\Cinemanote.g.resources
+C:\Users\OLGIERD\Desktop\STUDIA\SEMESTR V\WPF\projekt\Cinemanote\obj\Debug\Cinemanote.Properties.Resources.resources
+C:\Users\OLGIERD\Desktop\STUDIA\SEMESTR V\WPF\projekt\Cinemanote\obj\Debug\Cinemanote.csproj.GenerateResource.cache
+C:\Users\OLGIERD\Desktop\STUDIA\SEMESTR V\WPF\projekt\Cinemanote\obj\Debug\Cinemanote.csproj.CoreCompileInputs.cache
+C:\Users\OLGIERD\Desktop\STUDIA\SEMESTR V\WPF\projekt\Cinemanote\obj\Debug\Cinemanote.exe
+C:\Users\OLGIERD\Desktop\STUDIA\SEMESTR V\WPF\projekt\Cinemanote\obj\Debug\Cinemanote.pdb
+D:\STUDIA\WPF\projekt\Cinemanote\bin\Debug\Cinemanote.exe.config
+D:\STUDIA\WPF\projekt\Cinemanote\bin\Debug\Cinemanote.exe
+D:\STUDIA\WPF\projekt\Cinemanote\bin\Debug\Cinemanote.pdb
+D:\STUDIA\WPF\projekt\Cinemanote\obj\Debug\Cinemanote.csprojAssemblyReference.cache
+D:\STUDIA\WPF\projekt\Cinemanote\obj\Debug\MainWindow.g.cs
+D:\STUDIA\WPF\projekt\Cinemanote\obj\Debug\RateWindow.g.cs
+D:\STUDIA\WPF\projekt\Cinemanote\obj\Debug\ScheduleWindow.g.cs
+D:\STUDIA\WPF\projekt\Cinemanote\obj\Debug\App.g.cs
+D:\STUDIA\WPF\projekt\Cinemanote\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\STUDIA\WPF\projekt\Cinemanote\obj\Debug\Cinemanote_MarkupCompile.cache
+D:\STUDIA\WPF\projekt\Cinemanote\obj\Debug\Cinemanote_MarkupCompile.lref
+D:\STUDIA\WPF\projekt\Cinemanote\obj\Debug\MainWindow.baml
+D:\STUDIA\WPF\projekt\Cinemanote\obj\Debug\RateWindow.baml
+D:\STUDIA\WPF\projekt\Cinemanote\obj\Debug\ScheduleWindow.baml
+D:\STUDIA\WPF\projekt\Cinemanote\obj\Debug\Cinemanote.g.resources
+D:\STUDIA\WPF\projekt\Cinemanote\obj\Debug\Cinemanote.Properties.Resources.resources
+D:\STUDIA\WPF\projekt\Cinemanote\obj\Debug\Cinemanote.csproj.GenerateResource.cache
+D:\STUDIA\WPF\projekt\Cinemanote\obj\Debug\Cinemanote.csproj.CoreCompileInputs.cache
+D:\STUDIA\WPF\projekt\Cinemanote\obj\Debug\Cinemanote.exe
+D:\STUDIA\WPF\projekt\Cinemanote\obj\Debug\Cinemanote.pdb
